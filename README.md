@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aashray Chopra
-**Senior Analyst** | 💼 5+ Years in Consulting, Analytics & Strategy | Ex - ZS Associates | 🌏 Australia
+**Senior Analyst** | 💼 6 Years in Consulting, Analytics & Strategy | 🌏 Australia
 
 Welcome to my GitHub! I use this space to share personal projects and dashboards that reflect my passion for solving real-world problems using data. 
 With a background in consulting and business analytics, I enjoy breaking down complex challenges into data-driven insights that drive action.
